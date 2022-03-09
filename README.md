@@ -1,1 +1,3 @@
-# CDS590Project_EDA
+# Demand Forecasting of Fast Moving Consumer Goods Distributor
+
+Exploratory data analysis
